@@ -105,9 +105,10 @@ fun main() {
 
     //println(zad2aledzialajace("abba"))
 
-    //var wysokosc = 4;
-    //zad3(wysokosc);
-    //println(zad4(8));
+    //var wysokosc = 4
+    //zad3(wysokosc)
+    //println(zad4(8))
 
-    //println(zad5("153"));
+    //println(zad5("153"))
+
 }
