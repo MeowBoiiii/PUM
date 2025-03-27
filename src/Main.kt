@@ -98,16 +98,15 @@ fun zad5(num:String):Boolean {
 
 fun main() {
     //println("Hello World!")\
-    /*println("Podaj liczbe do sprawdzenia")
-    var naszaliczba= readln().toInt()
-    Czypodzielna3i5(naszaliczba)
-    */
+    println("Podaj liczbe do sprawdzenia")
+    /*var naszaliczba= readln().toInt()
+    Czypodzielna3i5(naszaliczba)*/
 
-    //println(zad2aledzialajace("abba"))
 
-    //var wysokosc = 4
-    //zad3(wysokosc)
-    //println(zad4(8))
+    //println(zad2aledzialajace("abuhba"))
+
+    //zad3(4)
+    //println(zad4(28))
 
     //println(zad5("153"))
 
